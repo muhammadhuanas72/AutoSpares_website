@@ -242,7 +242,7 @@ hr{
 /* Mobile */
 @media (max-width: 768px){
     #banner{
-        background-attachment: scroll;
+        background-attachment: fixed;
         background-position: center center;
         min-height: 70vh;
     }
